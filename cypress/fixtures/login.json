@@ -1,0 +1,33 @@
+{
+    "user1": {
+        "id": 789458,
+        "username": "Rodion",
+        "firstName": "Rodion",  
+        "lastName": "Raskolnikov",
+        "email": "rodion@mail.ru",
+        "password": "1248",
+        "phone": "85891",
+        "userStatus": 0
+    },
+    
+    "user2": {
+        "id": 12345872,
+        "username": "Evgeniy",
+        "firstName": "Evgeniy",
+        "email": "e@mail.ru",
+        "password": "4755",
+        "phone": "21530",
+        "userStatus": 0
+    },
+
+    "user2change": {
+        "id": 12345872,
+        "username": "Evgeniy",
+        "firstName": "Evgeniy",  
+        "lastName": "Onegin",
+        "email": "e@mail.ru",
+        "password": "4755",
+        "phone": "21530",
+        "userStatus": 0
+    }
+}
